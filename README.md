@@ -1,1 +1,1 @@
-# shopping-api
+# shopping-friday-api
